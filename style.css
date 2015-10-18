@@ -14,5 +14,9 @@ body {
     
 }
 .signup-form {
+	text-align: top;
+	padding-top: -100%;
+	padding-bottom: -100%;
 	color: brown
 }
+
